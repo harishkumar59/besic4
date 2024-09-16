@@ -1,0 +1,37 @@
+h1{
+    /* color: rgb(103, 221, 25); */
+    /* background: #000; */
+}
+  
+/* 
+
+div > p {
+   background-color: rgb(231, 34, 34);
+}
+
+button{
+    color: rgb(103, 221, 25);
+    background: dodgerblue;
+    width: 10; height: 20px;
+    border: none;
+
+}
+/* this is a class selector */
+.red{
+    color: red;
+    background-color: aqua;
+}
+
+/* this is a id selector */
+ #blue{
+    color: red;
+}
+
+div  p{
+  color: brown;
+}
+
+/* *{
+    margin: 0;
+    padding: 0;
+} */
